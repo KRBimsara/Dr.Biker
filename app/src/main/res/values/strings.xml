@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dr.Biker</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="getstartedText">Experience \nThe Best \nService Companion</string>
+    <string name="getstarted_btnPrimary">SIGN IN</string>
+    <string name="getstarted_btnSecondary">New Account</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="register_one">Please fill up the forms below \nfor informations</string>
+    <string name="register_two">Let the world knows yourself \nmore better and ever</string>
+    <string name="register_title2">Selfie Time</string>
+    <string name="register_btn_continue">Continue</string>
+    <string name="name_label">Full Name</string>
+    <string name="hobby_label">Bike Model</string>
+    <string name="success_label1">Kamu Hebat</string>
+    <string name="success_label2">Selamat datang pada TiketSaya \n dan nikmati wisatamu</string>
+    <string name="btn_success">Expore Now</string>
+    <string name="dashboard_label">Dr.Biker Servicing App</string>
+    <string name="main_menus">Service Menu</string>
+    <string name="main_label">The Best Services In Sri lanka</string>
+    <string name="ticket_tips">Service Tips</string>
+    <string name="information">Information</string>
+    <string name="Knowing_before_travel">Knowing before Service</string>
+    <string name="btn_buy_ticket">BOOK SERVICE</string>
+    <string name="title_buy">Confirm Booking</string>
+    <string name="btn_pay">PAY NOW</string>
+</resources>
